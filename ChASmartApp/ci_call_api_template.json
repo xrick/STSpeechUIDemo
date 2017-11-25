@@ -1,0 +1,22 @@
+{
+  "Command":"##command##",
+  "RequestArgument":
+  {
+    "Platform":"iOS",
+    "Question":"##question##",
+    "SupportedContentType":[0],
+    "SourceLanguage":"##language##"
+  },
+  "UserArgument":
+  {
+    "UserId":"##uid##",
+    "Password":"##pwd##",
+    "OfficeId":"##officeid##"
+  },
+  "RedisArgument":
+  {
+   "RedisDataKey":"##rediskey##",
+   "RedisDataValue":"##redisvalue##"
+  }
+  
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="58px" viewBox="0 0 265 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>定位背景@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M260.000276,2.9865987e-08 L4.99972354,2.9865987e-08 C4.99990065,0.0186180796 5,0.037260218 5,0.0559259004 C5,2.8578155 2.76142375,5.12919581 0,5.12919581 L0,57.5 L265,57.5 L265,5.12919581 C262.238576,5.12919581 260,2.8578155 260,0.0559259004 C260,0.037260218 260.000099,0.0186180796 260.000298,-2.62183913e-10 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="定位背景">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <path stroke="#E2E2E2" stroke-width="1" d="M259.51721,0.50000003 L5.48279015,0.50000003 C5.27253678,3.20182343 3.1603271,5.36363392 0.5,5.60648377 L0.5,57 L264.5,57 L264.5,5.60648377 C261.839673,5.36363392 259.727463,3.20182343 259.51721,0.50000003 Z"></path>
+        </g>
+    </g>
+</svg>

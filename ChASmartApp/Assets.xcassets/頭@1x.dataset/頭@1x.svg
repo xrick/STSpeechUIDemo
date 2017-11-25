@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="91px" viewBox="0 0 265 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>頭@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M260,91 L5,91 C5,88.2385763 2.76142375,86 0,86 L0,5 L0,5 C-3.38176876e-16,2.23857625 2.23857625,5.07265313e-16 5,0 L5,0 L260,0 C262.761424,-5.07265313e-16 265,2.23857625 265,5 L265,86 C262.238576,86 260,88.2385763 260,91 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="頭" fill="#3E62AD" xlink:href="#path-1"></use>
+    </g>
+</svg>

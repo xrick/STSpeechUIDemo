@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>飛機@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M_登記" transform="translate(-124.000000, -31.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M142,40.0989011 C142,39.3326778 141.37,38.6622325 140.65,38.6622325 L135.7,38.6622325 L131.2,31 L129.4,31 L131.65,38.6622325 L126.7,38.6622325 L125.35,36.7466744 L124,36.7466744 L124.9,40.0989011 L124,43.4511278 L125.35,43.4511278 L126.7,41.5355697 L131.65,41.5355697 L129.4,49.1978022 L131.2,49.1978022 L135.7,41.5355697 L140.65,41.5355697 C141.37,41.5355697 142,40.8651243 142,40.0989011 Z" id="飛機" transform="translate(133.000000, 40.098901) rotate(-360.000000) translate(-133.000000, -40.098901) "></path>
+        </g>
+    </g>
+</svg>

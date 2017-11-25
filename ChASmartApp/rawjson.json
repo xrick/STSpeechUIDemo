@@ -1,0 +1,10 @@
+
+  {
+  "TimeInfo": null,
+  "Type": "DynamicObject",
+  "Payload": {"ListSeatAvailable":[{"FlightInfo":{"AirlineCodeFlightNo":"CI6","DepartFrom":"TPE","DepartFromCn":"台北(桃園)","DepartDate":"2017/01/12","DepartTime":"17:00","ArriveTo":"LAX","ArriveToCn":"","ArriveDate":"2017/01/12","ArriveTime":"12:40"},"FlightCabininfo":[{"CabinClass":"C","SeatAvailable":24},{"CabinClass":"W","SeatAvailable":48},{"CabinClass":"Y","SeatAvailable":106}]},{"FlightInfo":{"AirlineCodeFlightNo":"CI8","DepartFrom":"TPE","DepartFromCn":"台北(桃園)","DepartDate":"2017/01/12","DepartTime":"23:50","ArriveTo":"LAX","ArriveToCn":"","ArriveDate":"2017/01/12","ArriveTime":"19:25"},"FlightCabininfo":[{"CabinClass":"C","SeatAvailable":31},{"CabinClass":"W","SeatAvailable":44},{"CabinClass":"Y","SeatAvailable":43}]}]
+  ,"DeaprtureOrReturn":"Departure"},
+  "PayloadInfo": "ListSeatAvailableArray",
+  "DebugInfo": null
+  }
+  

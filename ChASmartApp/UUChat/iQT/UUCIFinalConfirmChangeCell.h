@@ -1,0 +1,13 @@
+//
+//  UUCIFinalConfirmChangeCell.h
+//  ChASmartApp
+//
+//  Created by Liao Jiue-Ren on 03/11/2017.
+//  Copyright © 2017 Liao Jiue-Ren. All rights reserved.
+//
+
+#import "UUCIBaseCell.h"
+
+@interface UUCIFinalConfirmChangeCell : UUCIBaseCell
+-(void)generateCustomCell : (NSObject*)datasource;
+@end
